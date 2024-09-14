@@ -17,7 +17,7 @@ user_age_int = int(user_age_str)
 
 """ 
 Exercise: Conditional Statements
-In this exercise, you will use conditional statements to check is a year is a leap year.
+In this exercise, you will use conditional statements to check if a year is a leap year.
 """
 
 year = 0000
